@@ -18,12 +18,15 @@ This Todo List application is a simple, interactive web app built using HTML, CS
 - **JavaScript**: Functionality of the application.
 
 ## Installation
-
-1. Clone the repository:
+1. Donwload git based on your sytem and install
+   
+2. Clone the repository:
    git clone https://github.com/Anbu005/todo-list.git
 
-2. Navigate to the project directory:
+3. Alternative to clone, Download the project zip file and extract the file
+
+4. Navigate to the project directory:
    cd todo-list
 
-3. Open index.html in your web browser
+5. Open index.html in your web browser
    
